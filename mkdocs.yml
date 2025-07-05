@@ -1,5 +1,6 @@
 site_name: YDNA.me
-copyright: Copyright CC BY-ND 4.0 
+copyright: Copyright - ydna.me - CC BY-ND 4.0 - 
+           <a href="#__consent">Change cookie settings</a>
 theme:
   name: material
   logo: img/ydna-me-logo.png
@@ -14,6 +15,17 @@ plugins:
 
 extra:
   consent:
-    actions:
+  title: Cookie consent
+  description: >- 
+      Cookies may be set by the host service (GitHub pages). We don't track anything but they might.
+  actions:
       - accept
       - manage
+
+
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
