@@ -1,3 +1,7 @@
+
+
+![Logo](img/ydna-me-logo.png){ width="100" align="left" }
+
 # Y-DNA for Genetic Genealogy
 
 Y-DNA testing is a powerful tool for genealogists and surname researchers, offering a unique window into paternal lineage. As the Y chromosome is passed virtually unchanged from father to son, it can be used to trace direct male ancestry over many generations. This makes it especially valuable for exploring surname origins (if patrilineal), identifying common ancestors, and confirming or disproving suspected family connections. For those with brick walls in their paternal line, Y-DNA testing can provide new leads and connect individuals with distant cousins who share a common male ancestor.
@@ -31,9 +35,10 @@ Note that if you are aware of an adoption or name-change along your paternal lin
 
 ## What test to go for ?
 
-If you are a member of a project, the administrators of that project are best placed to advise you. The default is to go for the Y-37 test and
-then assess the situation after you have obtained your results. If money is no object then just go for the 'Big Y' test aka Y-700, but this is
-a waste of money if a close paternal-line male has already tested to this level. Your results should not be significantly different.
+If you are a member of a project, the administrators of that project are normally best placed to advise you, although advice may be sought in various online fora or Facebook groups. 
+
+The default option is normally to go for the Y-37 test and then assess the situation after you have obtained your results. If money is no object then just go for the 'Big Y' test aka Y-700, but this is
+a waste of money if a close paternal-line male has already tested to this level. Your results should not be significantly different and nothing will be learned.
 
 ## Cautions
 
@@ -43,7 +48,7 @@ However, there are important cautions to consider. Y-DNA testing only traces one
 Overall, Y-DNA testing can be a rewarding and enlightening experience for those interested in deepening their understanding of paternal heritage. When approached with realistic expectations and an awareness of potential surprises, it can significantly enhance genealogical research.
 
 
-## About
-{% include 'about.md' %}
+## Disclaimer
+{% include 'disclaimer.md' %}
 
 
