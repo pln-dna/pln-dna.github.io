@@ -43,6 +43,7 @@ However, there are important cautions to consider. Y-DNA testing only traces one
 Overall, Y-DNA testing can be a rewarding and enlightening experience for those interested in deepening their understanding of paternal heritage. When approached with realistic expectations and an awareness of potential surprises, it can significantly enhance genealogical research.
 
 
-## Caveats
+## About
+{% include 'about.md' %}
 
-This site serves to popularise Y-DNA testing for genetic genealogy and an understanding of human history. It is not linked to, supported or endorsed by any commercial DNA testing company. Nothing on this site may be construed as legal or medical advice.
+
