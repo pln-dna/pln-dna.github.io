@@ -1,6 +1,6 @@
 # Y-DNA for Genetic Genealogy
 
-Y-DNA testing is a powerful tool for genealogists and surname researchers, offering a unique window into paternal lineage. Because the Y chromosome is passed virtually unchanged from father to son, it can be used to trace direct male ancestry over many generations. This makes it especially valuable for exploring surname origins (if patrilineal), identifying common ancestors, and confirming or disproving suspected family connections. For those with brick walls in their paternal line, Y-DNA testing can provide new leads and connect individuals with distant cousins who share a common male ancestor.
+Y-DNA testing is a powerful tool for genealogists and surname researchers, offering a unique window into paternal lineage. As the Y chromosome is passed virtually unchanged from father to son, it can be used to trace direct male ancestry over many generations. This makes it especially valuable for exploring surname origins (if patrilineal), identifying common ancestors, and confirming or disproving suspected family connections. For those with brick walls in their paternal line, Y-DNA testing can provide new leads and connect individuals with distant cousins who share a common male ancestor.
 One of the most compelling uses of Y-DNA testing is in surname studies. Since surnames often follow the paternal line in many cultures, Y-DNA results can help determine whether individuals with the same surname are genetically related - i.e. if they share a common paternal-line ancestor. This can be extremely useful in cases where historical records are scarce or incomplete. By joining surname projects and comparing results with others, testers can contribute to a broader understanding of surname evolution and migration patterns.
 
 ## Overlooked
@@ -14,9 +14,9 @@ Y-DNA can 'reach back' further in time because there is no genetic mixing of Y-D
 
 Ideally everyone with a Y-chromosome who can afford it ! In practice this isn't necessary and there are certain biological men that could be regarded as a priority:
 
- * Those from families that have never been Y-DNA tested.
- * Those who don't have any other close male-line relatives (up to 4th cousin) - i.e. those that consider themselves the last in 'their line', without sons.
- * Those with rare patrilineal surnames or surnames that are otherwise unusual or atypical to the relevant region.
+ * Those from extended families that have never been Y-DNA tested.
+ * Those who don't have any other close male-line relatives (up to 4th/5th cousin) - i.e. those that consider themselves the last in 'their line', without biological sons.
+ * Those with patrilineal surnames that are rare or that are otherwise unusual or atypical to the relevant region.
  * Those with surnames that are often confused with other similar surnames.
  * Those that are interested in their deep ancestry.
 

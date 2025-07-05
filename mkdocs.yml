@@ -1,4 +1,12 @@
 site_name: YDNA.me
-copyright: CC BY-ND 4.0 
+copyright: Copyright CC BY-ND 4.0 
 theme:
-  name: readthedocs
+  name: material
+  logo: img/ydna-me-logo.png
+  favicon: img/ydna-me-logo.png
+  features:
+    - navigation.tabs
+    - toc.integrate
+
+plugins:
+  - include-markdown
