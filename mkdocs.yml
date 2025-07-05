@@ -10,3 +10,10 @@ theme:
 
 plugins:
   - include-markdown
+
+
+extra:
+  consent:
+    actions:
+      - accept
+      - manage
