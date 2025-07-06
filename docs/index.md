@@ -11,8 +11,7 @@ One of the most compelling uses of Y-DNA testing is in surname studies. Since su
 
 Y-DNA testing tends to be less frequently done than standard autosomal testing (as provided by, for example, Ancestry, MyHeritage, 23andMe, FTDNA 'Family Finder'). This is partly because it tends to get less attention, only biological men can do it and because only one testing company provides comprehensive Y-DNA testing, namely FTDNA, with the essential database for matching results. While one company may sound like a restiction, this does mean that there is a single Y-DNA database with consistent testing and reporting standards.
 
-Y-DNA can 'reach back' further in time because there is no genetic mixing of Y-DNA at every generation. This makes it a very powerfull tol
-
+Y-DNA can 'reach back' further in time than traditional autosomal testing because there is no genetic mixing of Y-DNA at every generation. It does however only follow the paternal line - an outer edge of your family tree.
  
 ## Who should test ?
 
@@ -31,7 +30,7 @@ unambiguous at sufficient resolution.
 
 You should try to find a surname project that relates to your paternal line. These may focus on surnames or geographical areas. Some projects have funds that might be able to subsidise or entirely pay for the testing of suitable candidates.
 
-Note that if you are aware of an adoption or name-change along your paternal line, you should be open about this as it will otherwise mislead the contextual analysis of your Y-DNA data.
+Note that if you are aware of or suspect an adoption or surname-change along your paternal line, you should be open about this as it will otherwise mislead the contextual analysis of your Y-DNA data.
 
 ## What test to go for ?
 
@@ -42,8 +41,7 @@ a waste of money if a close paternal-line male has already tested to this level.
 
 ## Cautions
 
-However, there are important cautions to consider. Y-DNA testing only traces one line of ancestry — your direct paternal line — so it represents just a small fraction of your overall family tree. Additionally, unexpected results, such as non-paternity events (where the presumed father is not the biological father), can arise and may be emotionally sensitive. Privacy is another concern; while most testing companies have safeguards in place, users should carefully review privacy policies and consider how their data might be used or shared.
-
+However, there are important cautions to consider. Unexpected results, such as non-paternity events (where the presumed father, grandfather etc. is discovered not to be the biological father, grandfather etc.), can arise and this could be traumatic to the tester or his extended family members. Privacy is another concern; while Y-DNA projects do not typically reveal the names of the testees - just the earliest known paternal ancestor - if you have a rare name it may be possible to work out who you are. Y-DNA information is relatively benign and non-medical in nature but it is theoretically possible your Y-DNA results could correlate with some Y-chromosome disease that could be found in the future. As this would also correlate with your surname, the publishing of Y-DNA information does not substantively add to the risk.  Ultimately many people are happy to share their Y-DNA results pseudonymously in return for the knowledge it brings.
 
 Overall, Y-DNA testing can be a rewarding and enlightening experience for those interested in deepening their understanding of paternal heritage. When approached with realistic expectations and an awareness of potential surprises, it can significantly enhance genealogical research.
 
