@@ -32,3 +32,12 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - attr_list
+
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Fenland Campaign: fens.md
+  - P-L-N Campaign: pln.md
+  - Disclaimer: disclaimer.md
+  

@@ -6,5 +6,6 @@ This site serves to popularise Y-DNA testing for genetic genealogy and for an un
 Payments for testing and for project funds should only be given to FTDNA directly.
 
 The site is updated sporadically and elements of it - like facts or web links - may be out-of-date.
+Check the modification date at the bottom of every page.
 
 ==}
