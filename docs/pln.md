@@ -41,8 +41,10 @@ Three variants from descendants of the Lisburn Pelans...
 
 You can find much of the output of this work on Wikitree.
 
-  * Uncertain Pelan - Ireland
-  * Uncertain Paling - England
+There is a target list of genealogies that should be Y-DNA tested:
+
+  * [Uncertain Pelan - Ireland](https://www.wikitree.com/wiki/Category:Uncertain%2C_Pelan_Name_Study)
+  * [Uncertain Paling - England](https://www.wikitree.com/wiki/Category:Uncertain%2C_Paling_Name_Study)
 
 ## Thank-you
 
