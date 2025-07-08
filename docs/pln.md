@@ -18,10 +18,11 @@ Three variants from descendants of the Lisburn Pelans...
 ## Haplogroups
 
  * [R-BY104277](https://discover.familytreedna.com/y-dna/R-BY104277/tree) - so far, everyone downstream of this has a 'P-L-N' style name.
+ * [R-FTB47839](https://discover.familytreedna.com/y-dna/R-FTB47839/tree) - 'Hancock-like' (estimated haplogroup)
  
 ## What next ?
 
- There are two untested groups from Ireland with some genealogy:
+ There are two untested groups from Ireland with some known genealogy:
 
   * PELIN - Co. Kildare / Co. Offaly
   * PALLIN - Co. Carlow / Co. Kildare (proximate to the above) 
@@ -31,7 +32,7 @@ Three variants from descendants of the Lisburn Pelans...
   * PELLING
   * PEELING
 
- There are plenty of similar names all over England
+ There are plenty of similar names all over England (notably East Anglia, Sussex, Chester):
 
   * PELING
   * PELLING
@@ -49,6 +50,16 @@ There is a target list of genealogies that should ideally be Y-DNA tested:
 
 This is a work-in-progress and names may be added or removed as the results come in.
 
+
+## Joining
+
+If you wish to join this exciting research please sign-up here ('JOIN' button):
+
+ * [P-L-N Y-DNA Surname Project](https://www.familytreedna.com/groups/pelan/about/background)
+
+If you can afford to do so, please purchase the Y-37 test and complete the basic ancestry information.
+There may be funding available although this is primarily for follow-up Y-700 tests for specific candidates.
+ 
 ## Thank-you
 
 I would like to thank everyone who has been tested or who has agreed to be tested. Without you this knowledge would never have been revealed. Our small, isolated groups of rare names actually constitutes a much larger patrilineal group. With more testing in France and 
