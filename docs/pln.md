@@ -21,9 +21,10 @@ Three variants from descendants of the Lisburn Pelans...
  
 ## What next ?
 
- There is an untested group in Ireland with limited genealogy:
+ There are two untested groups from Ireland with some genealogy:
 
   * PELIN - Co. Kildare / Co. Offaly
+  * PALLIN - Co. Carlow / Co. Kildare (proximate to the above) 
 
  There are North Americans with Irish origins with surnames like:
 
@@ -41,10 +42,12 @@ Three variants from descendants of the Lisburn Pelans...
 
 You can find much of the output of this work on Wikitree.
 
-There is a target list of genealogies that should be Y-DNA tested:
+There is a target list of genealogies that should ideally be Y-DNA tested:
 
   * [Uncertain Pelan - Ireland](https://www.wikitree.com/wiki/Category:Uncertain%2C_Pelan_Name_Study)
   * [Uncertain Paling - England](https://www.wikitree.com/wiki/Category:Uncertain%2C_Paling_Name_Study)
+
+This is a work-in-progress and names may be added or removed as the results come in.
 
 ## Thank-you
 
