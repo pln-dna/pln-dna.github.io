@@ -1,5 +1,4 @@
 
-
 ![Logo](img/ydna-me-logo.png){ width="100" align="left" }
 
 # Y-DNA for Genetic Genealogy
