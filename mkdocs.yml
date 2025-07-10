@@ -3,6 +3,7 @@ copyright: Copyright - ydna.me - CC BY-ND 4.0 (except images)-
            <a href="#__consent">Change cookie settings</a>
 theme:
   name: material
+  custom_dir: override
   logo: img/ydna-me-logo.png
   favicon: img/ydna-me-logo.png
   features:
