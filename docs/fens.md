@@ -1,18 +1,17 @@
 
 # Fenland Y-DNA Campaign
 
-## (*This is a test site only - the project/campaign does not yet exist*)
+## (*This is a test site only - the campaign does not yet exist*)
 
 ![Logo](img/fenland-banner-1.png){ width="600" align="center" }
 
-## Project Aims
+## Campaign Aims
 
-This project seeks to drive the uptake of genealogical Y-DNA testing amongst the current male population of the [English Fenlands](https://en.wikipedia.org/wiki/The_Fens). It will do so through publicity with the various family and local history groups - with an additional hope of being able to sponsor selected testees. The aim is to direct potential candidates to the appropriate project administrators (Surname and/or Geographical) where funds may be available.
+This campaign aims to drive the uptake of genealogical Y-DNA testing amongst the current male population of the [English Fenlands](https://en.wikipedia.org/wiki/The_Fens). It will do so through publicity with the various family and local history groups - with an additional hope of being able to sponsor selected testees. The aim is to direct potential candidates to the appropriate project administrators (Surname and/or Geographical) where funds may be available.
 
-This project is not in-itself a FTDNA Y-DNA project - it will utilise existing projects and the expertise of current project administrators.
+This campaign is not in-itself a FTDNA Y-DNA project - it will utilise existing projects and the expertise of current project administrators.
 
-The project seeks to launch in late 2025 but this depends on the publication schedules and opportunities for announcements.
-It is likely to run for at least 6 months.
+The campaign seeks to launch in late 2025 but this depends on the publication schedules and opportunities for announcements. It is likely to run for at least 6 months.
 
 ## Suitable Candidates
 
@@ -39,7 +38,7 @@ This is a place-holder for the project list.
 | Project Name |  Surname(s) | URL | Sponsorship Available ? |
 | ------------ |  -----------| --- | ---------------------   |
 | P-L-N        |  Pelling, Peling  | [https://www.familytreedna.com/groups/pelan/about](https://www.familytreedna.com/groups/pelan/about)    |  Yes |    
-
+| Rare Surnames  |  Rare surnames UK & Ireland  | [https://www.familytreedna.com/groups/rare-family-names-uk-ireland/about](https://www.familytreedna.com/groups/rare-family-names-uk-ireland/about)   |  Maybe | 
 
 
 ## (*This is a test site only - the project/campaign does not yet exist*)
