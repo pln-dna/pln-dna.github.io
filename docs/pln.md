@@ -24,7 +24,7 @@ Three variants from descendants of the Lisburn Pelans...
 
  There are two untested groups from Ireland with some known genealogy:
 
-  * PELIN - Co. Kildare / Co. Offaly
+  * PELIN - Co. Kildare / Co. Offaly (Y-111 STR completed - confirmed members of the Pelan/Paling group)
   * PALLIN - Co. Carlow / Co. Kildare (proximate to the above) 
 
  There are North Americans with Irish origins with surnames like:
