@@ -4,8 +4,8 @@ Research into the PELAN and PAYLING/PALING surnames, from Ulster and Nottinghams
 
  * PALING / PAYLING - Found mostly in Nottinghamshire, England
  * PELAN - originating from Lambeg / Lisburn in 17th century Ireland - most plausibly immigration from England
- * PELIN - found in Dublin, Ireland since the 18th century (but now almost died out)
- * PALIN - (Discovered 2024) likely been in the US since British colonial times - Province of Carolina - close match to Lisburn
+ * PELIN - found historically in Dublin & Co.s Kildare & Offaly, Ireland since the 16th century (but now died out in Dublin)
+ * PALIN - (Discovered 2024) likely been in the US since British colonial times - Province of Carolina - closest match to Lisburn Pelans
 
 Three variants from descendants of the Lisburn Pelans...
 
