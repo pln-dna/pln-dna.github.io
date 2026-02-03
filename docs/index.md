@@ -38,6 +38,12 @@ If you are a member of a project, the administrators of that project are normall
 The default option is normally to go for the Y-37 test and then assess the situation after you have obtained your results. If money is no object then just go for the 'Big Y' test aka Y-700, but this is likely to be
 a waste of money if a close paternal-line male has already tested to this level. Your results would not be significantly different and nothing will be learned.
 
+### Transfer of Existing Autosomal Data
+
+If you have already tested with Ancestry, 23and Me or MyHeritage, you can import your results into FTDNA and for a small charge they will make a call on your Y-haplogroup. This can be very useful for a Y-DNA project manager as a starting point as it can indicate if further Y-DNA testing will be fruitful. If you do need to be tested, you will need to be issued with a test kit from FTDNA and your most recent haplogroup(s) can then be estimated or precisely determined by FTDNA's native Y-DNA tests.
+
+* See [FTDNA - Autosomal DNA Data Transfers](https://help.familytreedna.com/hc/en-us/articles/4415446123663-Autosomal-DNA-Transfers)
+
 ## Cautions
 
 There are important cautions to consider. Unexpected results, such as non-paternity events (where the presumed father, grandfather etc. is discovered not to be the biological father, grandfather etc.), can arise and this could be traumatic to the tester or his extended family members. Privacy is another concern; while Y-DNA projects do not typically reveal the names of the testees - just the surname & earliest known paternal ancestor - if you have a rare name it may be possible to work out who you are. That said Y-DNA information is relatively benign and non-medical in nature but it is theoretically possible your Y-DNA results could correlate with some Y-chromosome disease that could be found in the future. As this would also correlate with your surname, the publishing of Y-DNA information does not substantively add to the risk.  Ultimately many people are happy to share their Y-DNA results pseudonymously in return for the knowledge it brings.
