@@ -25,6 +25,8 @@ Ideally everyone with a Y-chromosome who can afford it ! In practice this isn't 
 If you are female you might try to persuade a male family member to get tested. This will only provide insight along the purely paternal line but it is generally
 unambiguous at sufficient resolution.
 
+Over 699,000 males have been Y-DNA tested to SNP level at FTDNA thus far.
+
 ## Projects - Surname and/or Geographic
 
 You should try to find a surname project that relates to your paternal line. These may focus on surnames or geographical areas. Some projects have funds that might be able to subsidise or entirely pay for the testing of suitable candidates.
