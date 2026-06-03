@@ -2,10 +2,11 @@
 
 Research into the PELAN and PAYLING/PALING surnames, from Ulster and Nottinghamshire/Yorkshire respectively, found that they were in fact **the same patrilineal family**. There then followed a subsequent flurry of tracing people with possibly related names which resulted with much Y-DNA testing over a 15-year period:
 
- * PALING / PAYLING - Found mostly in Nottinghamshire, England
+ * PALING / PAYLING - Found mostly in Nottinghamshire, England. Probably the most numerous group.
  * PELAN - originating from Lambeg / Lisburn in 17th century Ireland - most plausibly immigration from England
  * PELIN - found historically in Dublin & Co.s Kildare & Offaly, Ireland since the 16th century (but now died out in Dublin)
- * PALIN - (Discovered 2024) likely been in the US since British colonial times - Province of Carolina - closest match to Lisburn Pelans
+ * PALIN - (Discovered 2024) likely been in the US since British colonial times - Province of Carolina
+ * PEELING - found in Norfolk, England
 
 Three variants from descendants of the Lisburn Pelans...
 
@@ -15,9 +16,16 @@ Three variants from descendants of the Lisburn Pelans...
 
 As a short-hand, I have come to call all these kinds of surname as the 'P-L-N' family (called a 'consonant skeleton') and I have been reaching out to males bearers of these names to determine if or how they are connected. Y-DNA testing is the only way of confirming these connections when they are hundreds of years old.
 
-Here is a [summary report](assets/files/PLN-Dia-2026-02.pdf) in PDF format.
-
 Please read the main section of this site for more information about Y-DNA testing.
+
+## Current Status 
+
+2026-05  -The so-called 'Hancock' branch of the Ulster Pelans has been renamed as it has been now shown that their connection to the Hancocks is too distant to be relevant. Their status is currently unknown and more testing will be necessary.
+
+
+This [summary report](assets/files/PLN-Dia-2026-02.pdf) (in PDF format) is out-of-date.
+It is excpected to be updated in the summer of 2026 when more results are made available.
+
 
 ## Who else is in scope ?
 
@@ -30,15 +38,24 @@ Please read the main section of this site for more information about Y-DNA testi
   * PELLING
   * PEELING
 
+There are North Americans with English origins with surnames like:
+
+  * PALIN
+  * PALING / PAYLING etc.
+  * GILES - descendants of William Giles (b. 1796 d. 1874) [https://www.wikitree.com/wiki/Giles-3081](https://www.wikitree.com/wiki/Giles-3081)
+
  There are plenty of similar names all over England (notably East Anglia/Fens, Sussex, Chester):
 
-  * PEEL/PEELE - Norfolk
+  * PEEL/PEELE - Norfolk  (there is a separate Y-DNA study for these people but I am encouraging membership !)
   * PELING
   * PELLING - Sussex
   * PELLING - Kent (Very rare, now tested!)
-  * PEELING - Norfolk
-  * PEALING - Salford, Liverpool & London
-  * PALIN
+  * PEELING - Norfolk  (now tested and matches!)
+  * PEALING - Norfolk, Salford, Liverpool & London
+  * PALIN / PALING - Cheshire, Leicestershire
+  * PALIN / PALING / PAILIN - Warwickshire
+  * PAWLING -
+  * PAULING -
 
 France / The Netherlands
 
@@ -69,7 +86,7 @@ This is always a work-in-progress and names may be added or clarified as the res
 For the purposes of the research, the two major 'Pelan' haplogroups are considered the same family as the Hancock-like is highly probable to be an NPE - given their proximity in time and place.
 
  * [R-BY104277](https://discover.familytreedna.com/y-dna/R-BY104277/tree) - so far, everyone downstream of this has a 'P-L-N' style name (or is descended from one)
- * [R-FTB47839](https://discover.familytreedna.com/y-dna/R-FTB47839/tree) - 'Hancock-like' (estimated haplogroup)
+ * [R-FTJ39616](https://discover.familytreedna.com/y-dna/R-FTJ39616/tree) - Previously called 'Hancock-like' 
  
 
 ## Joining

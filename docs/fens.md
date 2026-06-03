@@ -28,14 +28,14 @@ You need to be:
  * Funding, where available, may require additional criteria according to the relevant project administrator.
  * Ultimately the project administrators will determine the suitabilty of the candidate for their project.
 
- ## What do I do next ?
+## What do I do next ?
 
- * If you have tested with Ancestry or 23andMe - you should open an account with FTDNA and transfer your results in. Then join the relevant surname project.
+ * If you have tested with Ancestry or 23andMe - you should [transfer your results over to FTDNA](https://help.familytreedna.com/hc/en-us/articles/4402392808463-Transferring-Your-Autosomal-DNA-From-Another-Company). Then join the relevant surname project. Please note that this option might not be viable for results from 2026 or later.
  * If you have not previously tested, you should check to see if there is a relevant surname project first because their admin might be able to sponsor you.
  * If there is no relevant surname project - you should order a Y-32 test from FTDNA.
 
  
- join the Rare surnames project if your surname is rare otherwise join the East Anglia DNA project.
+ * Join the Rare surnames project if your surname is rare otherwise join the East Anglia DNA project.
  * Once your FTDNA account is established you can join multiple projects.
 
 
@@ -44,13 +44,32 @@ You need to be:
 
 | Project Name |  Surname(s) | URL | Sponsorship Available ? |
 | ------------ |  -----------| --- | ---------------------   |
-| P-L-N        |  Pelling, Peling  | [https://www.familytreedna.com/groups/pelan/about](https://www.familytreedna.com/groups/pelan/about)    |  Yes |    
-| Rare Surnames  |  Rare surnames UK & Ireland  | [https://www.familytreedna.com/groups/rare-family-names-uk-ireland/about](https://www.familytreedna.com/groups/rare-family-names-uk-ireland/about)   |  Maybe | 
+| Bourne / Burn / Bourn  | Bourne | [https://www.familytreedna.com/groups/bourne/about](https://www.familytreedna.com/groups/bourne/about) |  | |
+| Cox          |  Cox        | [https://www.familytreedna.com/groups/cox-dna-study/about/](https://www.familytreedna.com/groups/cox-dna-study/about/)    |   Check with admins       |
+| Fenn / Fann  | Fenn / Fann | [https://www.familytreedna.com/groups/the-fann-and-fenn-dna-group-study/about](https://www.familytreedna.com/groups/the-fann-and-fenn-dna-group-study/about) | |
+| Fleet        | Fleet | [https://www.familytreedna.com/groups/fleet/about](https://www.familytreedna.com/groups/fleet/about) | | |
+| Girdlestone |  Girdlestone | [https://www.familytreedna.com/groups/girdlestone-surname/about](https://www.familytreedna.com/groups/girdlestone-surname/about) |   | | 
+| Holmes      |  Holmes | [https://www.familytreedna.com/groups/holmes/about/background](https://www.familytreedna.com/groups/holmes/about/background) |  ||
+| Hooper      |  Hooper | [https://www.familytreedna.com/groups/hooper/about](https://www.familytreedna.com/groups/hooper/about) | ||
+| Langton / Lenton  |  Lenton     | [https://www.familytreedna.com/groups/langton/about](https://www.familytreedna.com/groups/langton/abou) | |
+| P-L-N        |  Pealing, Pelling, Peling etc. | [https://www.familytreedna.com/groups/pelan/about](https://www.familytreedna.com/groups/pelan/about)    |  Yes |    
+| Rare Surnames  |  Rare surnames UK & Ireland  | [https://www.familytreedna.com/groups/rare-family-names-uk-ireland/about](https://www.familytreedna.com/groups/rare-family-names-uk-ireland/about)   | Check with admins| 
+| Sykes / Sike | Sykes / Sike | [https://www.familytreedna.com/groups/sikes-sykes-dna-project/about/](https://www.familytreedna.com/groups/sikes-sykes-dna-project/about/) | |
 | Toynbee      |  Toynbee, Taughenbaugh | [https://www.familytreedna.com/groups/toynbee/about/background](https://www.familytreedna.com/groups/toynbee/about/background) | |
+| Fentress     |  Ventress   | [https://www.familytreedna.com/groups/fentress/about](https://www.familytreedna.com/groups/fentress/about) |  |
+
 
 There is a generic East Anglia DNA project (for Y-DNA and mtDNA) - [https://www.familytreedna.com/groups/east-anglia/about/background](https://www.familytreedna.com/groups/east-anglia/about/background).
 
 
-## Suggested Names
+## Names that have been Suggested
 
 * Hannent
+
+## Local Family History Societies
+
+* Fenland FHS - [http://www.fenlandfhs.org.uk/](http://www.fenlandfhs.org.uk/)
+* Cambridgeshire and Huntingdonshire FHS - https://www.chfhs.org.uk/
+* Lincolnshire FHS - https://www.lincolnshirefhs.org.uk/
+* Norfolk FHS - https://www.norfolkfhs.org.uk/
+* Suffolk FHS - https://www.suffolkfhs.co.uk/
